@@ -18,6 +18,8 @@ Sleep es una aplicación que te permite saber la hora a la que debes despertar e
 4. Ejecuta el proyecto con `flutter run`
 
 ## Captura de pantalla
+<img src="https://github.com/sacastrot/sleep-app/assets/70394887/a7202167-b693-425e-83c8-1bcb7c83aa3c" alt="drawing" width="350"/>
+
 ## Author
 
 Santiago Castro - Desarrollador de software y estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia.
