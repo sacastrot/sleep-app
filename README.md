@@ -20,6 +20,29 @@ Sleep es una aplicación que te permite saber la hora a la que debes despertar e
 ## Captura de pantalla
 <img src="https://github.com/sacastrot/sleep-app/assets/70394887/a7202167-b693-425e-83c8-1bcb7c83aa3c" alt="drawing" width="350"/>
 
+## Estructura de carpetas
+
+- **android** - Contiene el código nativo de Android.
+- **assets** - Contiene los recursos estáticos de la aplicación.
+- **ios** - Contiene el código nativo de iOS.
+- **lib** - Contiene el código fuente principal de la aplicación.
+  - **config** - Contiene la configuración de colores y estilos de la aplicación.
+  - **presentation** - Contiene la capa de presentación de la aplicación. los widgets de la interfaz de usuario.
+    - **screens** - Contiene las pantallas de la aplicación.
+  - **main.dart** - Punto de entrada de la aplicación.
+- **linux** - Contiene el código nativo de Linux.
+- **macos** - Contiene el código nativo de macOS.
+- **test** - Contiene las pruebas de la aplicación.
+- **web** - Contiene el código nativo de la web.
+- **windows** - Contiene el código nativo de Windows.
+
+**.gitignore** - Archivo que contiene los archivos y carpetas que se ignorarán en el control de versiones.
+**.metadata** - Archivo de configuración de Dart.
+**analysis_options.yaml** - Archivo de configuración de análisis estático.
+**pubspec.lock** - Archivo que contiene las versiones exactas de las dependencias.
+**pubspec.yaml** - Archivo que contiene las dependencias del proyecto.
+**README.md** - Archivo que contiene la información del proyecto.
+
 ## Author
 
 Santiago Castro - Desarrollador de software y estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia.
