@@ -43,7 +43,7 @@ Sleep es una aplicación que te permite saber la hora a la que debes despertar e
 **pubspec.yaml** - Archivo que contiene las dependencias del proyecto.
 **README.md** - Archivo que contiene la información del proyecto.
 
-## Author
+## Autor
 
 Santiago Castro - Desarrollador de software y estudiante de ingeniería de sistemas en la Universidad Nacional de Colombia.
 
